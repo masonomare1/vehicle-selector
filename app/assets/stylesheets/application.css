@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+
+
+ body {
+  background-color: red;
+}
+
+.rrr {
+  background-color: red;
+  height: 100vh;
+  width: 100vw;
+}
